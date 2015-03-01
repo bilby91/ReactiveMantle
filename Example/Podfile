@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'ReactiveMantle', :exclusive => true do
+  pod "ReactiveMantle", :path => "../"
+
+  pod 'Kiwi'
+end

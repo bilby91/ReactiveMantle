@@ -1,0 +1,31 @@
+PODS:
+  - Kiwi (2.3.1)
+  - Mantle (1.5.4):
+    - Mantle/extobjc (= 1.5.4)
+  - Mantle/extobjc (1.5.4)
+  - ReactiveCocoa (2.4.7):
+    - ReactiveCocoa/UI (= 2.4.7)
+  - ReactiveCocoa/Core (2.4.7):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.7)
+  - ReactiveCocoa/UI (2.4.7):
+    - ReactiveCocoa/Core
+  - ReactiveMantle (0.1.0):
+    - Mantle (~> 1.5)
+    - ReactiveCocoa (~> 2.4)
+
+DEPENDENCIES:
+  - Kiwi
+  - ReactiveMantle (from `../`)
+
+EXTERNAL SOURCES:
+  ReactiveMantle:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
+  Mantle: d5fbaf30fbc58031223af13812c060e15934a1fe
+  ReactiveCocoa: 313fc53cc9aeb2bbbc3f5f13c7eac16478d9af8f
+  ReactiveMantle: 9f24424a098bb0179b2132fdf676069b0eb119ce
+
+COCOAPODS: 0.36.0.rc.1
