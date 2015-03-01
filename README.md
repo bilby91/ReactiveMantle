@@ -1,6 +1,6 @@
 # ReactiveMantle
 
-[![CI Status](http://img.shields.io/travis/Martin Fernandez/ReactiveMantle.svg?style=flat)](https://travis-ci.org/Martin Fernandez/ReactiveMantle)
+[![CI Status](http://img.shields.io/travis/bilby91/ReactiveMantle.svg?style=flat)](https://travis-ci.org/Martin Fernandez/ReactiveMantle)
 [![Version](https://img.shields.io/cocoapods/v/ReactiveMantle.svg?style=flat)](http://cocoadocs.org/docsets/ReactiveMantle)
 [![License](https://img.shields.io/cocoapods/l/ReactiveMantle.svg?style=flat)](http://cocoadocs.org/docsets/ReactiveMantle)
 [![Platform](https://img.shields.io/cocoapods/p/ReactiveMantle.svg?style=flat)](http://cocoadocs.org/docsets/ReactiveMantle)
