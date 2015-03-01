@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name             = "ReactiveMantle"
   s.version          = "0.1.0"
   s.summary          = "ReactiveMantle helps you out mapping mantle objects"
-  s.homepage         = "https://github.com/bilby91/ReactiveMapping"
+  s.homepage         = "https://github.com/bilby91/ReactiveMantle"
   s.license          = 'MIT'
   s.author           = { "Martin Fernandez" => "me@bilby91.com" }
   s.source           = { :git => "https://github.com/bilby91/ReactiveMantle.git", :tag => s.version.to_s }
